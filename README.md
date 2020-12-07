@@ -11,4 +11,5 @@
 **Tools**
 - Vivado
 - Questa Sim
-- Verilator
+- Verilator(Open-Source)   
+- Icarus Verilog(Open-Source)
